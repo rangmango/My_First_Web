@@ -1,0 +1,9 @@
+h1 {
+    text-align:center;
+    border-bottom: 2px solid black;
+    margin:0;
+    padding:15px;
+}
+li {
+    padding:3px;
+}
